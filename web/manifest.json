@@ -1,6 +1,6 @@
 {
-    "name": "startup_namer_flutter",
-    "short_name": "startup_namer_flutter",
+    "name": "listview_flutter",
+    "short_name": "listview_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
